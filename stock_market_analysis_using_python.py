@@ -1,6 +1,4 @@
-
-
-pip install yfinance
+pip install yfinance #Mandatory
 
 import pandas as pd
 import yfinance as yf
